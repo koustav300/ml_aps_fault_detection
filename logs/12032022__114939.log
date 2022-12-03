@@ -1,0 +1,9 @@
+[ 2022-12-03 11:49:40,334 ] 18 root - INFO - Reading data from database: db_aps and collection: colc_sensor
+[ 2022-12-03 11:49:44,220 ] 20 root - INFO - Found columns: Index(['_id', 'class', 'aa_000', 'ab_000', 'ac_000', 'ad_000', 'ae_000',
+       'af_000', 'ag_000', 'ag_001',
+       ...
+       'ee_002', 'ee_003', 'ee_004', 'ee_005', 'ee_006', 'ee_007', 'ee_008',
+       'ee_009', 'ef_000', 'eg_000'],
+      dtype='object', length=172)
+[ 2022-12-03 11:49:44,221 ] 22 root - INFO - Dropping column: _id 
+[ 2022-12-03 11:49:44,426 ] 24 root - INFO - Row and columns in df: (36188, 171)

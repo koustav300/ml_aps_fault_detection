@@ -1,0 +1,8 @@
+[ 2022-12-03 14:54:06,009 ] 22 root - INFO - Exporting collection data as pandas dataframe
+[ 2022-12-03 14:54:06,009 ] 18 root - INFO - Reading data from database: aps and collection: sensor
+[ 2022-12-03 14:54:06,014 ] 20 root - INFO - Found columns: Index([], dtype='object')
+[ 2022-12-03 14:54:06,014 ] 24 root - INFO - Row and columns in df: (0, 0)
+[ 2022-12-03 14:54:06,014 ] 28 root - INFO - Save data in feature store
+[ 2022-12-03 14:54:06,014 ] 34 root - INFO - Create feature store folder if not available
+[ 2022-12-03 14:54:06,015 ] 38 root - INFO - Save df to feature store folder
+[ 2022-12-03 14:54:06,017 ] 43 root - INFO - split dataset into train and test set
